@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Botón 1: ver características de la solicitud -->
+    <item
+        android:id="@+id/action_ver_detalle"
+        android:title="@string/action_ver_detalle"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+    <!-- Botón 2: crear notificación -->
+    <item
+        android:id="@+id/action_notificacion"
+        android:title="@string/action_notificacion"
+        android:icon="@drawable/ic_notificacion"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
+
+</menu>

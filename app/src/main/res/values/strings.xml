@@ -1,0 +1,19 @@
+<resources>
+    <!-- Título que aparece en la toolbar -->
+    <string name="app_name">Solicitudes Formativas</string>
+
+    <!-- Acciones de la toolbar -->
+    <string name="action_ver_detalle">Ver características</string>
+    <string name="action_notificacion">Crear notificación</string>
+
+    <!-- Formulario de solicitud -->
+    <string name="hint_nombre">Nombre del solicitante</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_actividad">Actividad formativa (curso, taller, seminario…)</string>
+    <string name="hint_fecha">Fecha deseada (dd/mm/aaaa)</string>
+    <string name="hint_observaciones">Observaciones</string>
+    <string name="btn_compartir">Compartir solicitud</string>
+
+    <!-- Pantalla de detalle -->
+    <string name="titulo_detalle">Características de la solicitud</string>
+</resources>
